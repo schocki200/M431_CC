@@ -1,6 +1,5 @@
 # M431_CC
 ## Einleitung
-lhfahsdfasdkfjh
 ## Informieren
 ## Planen
 ## Entscheiden
