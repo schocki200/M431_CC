@@ -23,7 +23,11 @@ Der Zeitplan haben wir mit Hilfe des Gantt-Diagramm erstellt und durch das Wisse
 -04.07.2022: Letzte Besprechung / Anpassungen
 -11.07.2022: Projektende / Präsentation
 ### Ressourcenplanung
-
+-Adobe After Effects (immer vorhanden)
+-Links (immer vorhanden)
+-YouTube Vorlage (immer vorhanden)
+-Laptops (immer vorhanden)
+-PowerPoint (immer vorhanden, für Präsentation)<br>
 ## Entscheiden
 Wir haben uns für das Erklärungsvideo entschieden, weil Blockchain ein grosses Thema ist und durch die grossen Cryptowährungen ein wichtiger Bestandteil der heutigen Technik wurde. Da Blockchain noch viele Leute nicht richtig verstehen und  es bestimmt auch viele Leute in der IT interessiert haben wir uns für ein Erklärungsvideo entschieden. Das Thema ist ausserdem sehr interessant und wir beide haben den Willen mehr darüber zu lernen. Auch wollen wir mit Hilfe von Adobe After Effects das Video animieren, denn in diesem Thema hat Colin schon 3 Jahre Erfahrung und wir müssen uns nicht mehr allzu fest damit befassen. Das Erklärungsvideo orientiert sich nach den Videos von Simpleclub, da viele junge Persönlichkeiten diesen Stil von Videos sehr attraktiv finden und viel davon lernen.<br>
 ## Realisieren
