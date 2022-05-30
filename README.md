@@ -13,6 +13,8 @@ https://www.coinbase.com/de/learn/crypto-basics/what-is-a-blockchain
 https://www.youtube.com/watch?v=baF9b5Lkiio = Orientierung des Erklärungsvideo
 
 ## Planen
+### Zeitplan
+Der Zeitplan haben wir mit Hilfe des Gantt-Diagramm erstellt und durch das Wissen bereits vergangener Projekte. Dabei haben wir nach IPERKA struckturiert und darunter alle Teilziele aufgeführt. Als wir alle Teilziele hatten, haben wir ihnen Tage zugewiessen, an denen wir diese Teilziele erarbeiten werden.
 ### Meetings / Meilensteine
 -23.05.2022: Projektbeginn
 -06.06.2022: Beginn der Realisierung
