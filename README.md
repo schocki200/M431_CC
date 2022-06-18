@@ -1,2 +1,2 @@
 ## M431 CC
-![Logo](Source/SysTec.png)
+<img src="Source/SysTec_white.png" height="121.5" width="303">
