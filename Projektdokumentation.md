@@ -31,6 +31,9 @@ Der Zeitplan haben wir mit Hilfe des Gantt-Diagramm erstellt und durch das Wisse
 ## Entscheiden
 Wir haben uns für das Erklärungsvideo entschieden, weil Blockchain ein grosses Thema ist und durch die grossen Cryptowährungen ein wichtiger Bestandteil der heutigen Technik wurde. Da Blockchain noch viele Leute nicht richtig verstehen und  es bestimmt auch viele Leute in der IT interessiert haben wir uns für ein Erklärungsvideo entschieden. Das Thema ist ausserdem sehr interessant und wir beide haben den Willen mehr darüber zu lernen. Auch wollen wir mit Hilfe von Adobe After Effects das Video animieren, denn in diesem Thema hat Colin schon 3 Jahre Erfahrung und wir müssen uns nicht mehr allzu fest damit befassen. Das Erklärungsvideo orientiert sich nach den Videos von Simpleclub, da viele junge Persönlichkeiten diesen Stil von Videos sehr attraktiv finden und viel davon lernen.<br>
 ## Realisieren
+Am Anfang des Realisierens haben wir ein Drehbuch erstellt. Bei diesem ging es uns darum alle Texte, die wir aufnehmen aufzuschreiben und allgemein den Ablauf aufzuschreiben. Danach haben wir zu diesem Drehbuch die Aufnahmen gemacht. Dies haben wir Zuhause gemacht, da wir Zuhause gute Mikrofone haben und wir sowieso noch Zeit Zuhause nachholen musste, da wir am 20.06.2022 schon früher nach hause durften. Danach war nur noch das Animieren an der Reihe, das zum grössten Teil Colin übernommen hat.
+<br>
+
 ## Kontrollieren
 ## Auswerten
 ===============<br>
