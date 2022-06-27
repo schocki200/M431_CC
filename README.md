@@ -1,9 +1,9 @@
 # M431 Projektdokumentation
 ## Was ist eine Blockchain - Erklärungsvideo
-## Erstellt von 
-<img src="Source/SysTec_white.png" height="60.75" width="151.5">
-
 ---
+
+## Inhaltsverzeichnis
+
 - [Projektdokumentation](Projektdokumentation.md)
 
 - [Projektauftrag](Projektauftrag.pdf)
@@ -13,3 +13,7 @@
 - [Nutzwertanalyse](Nutzwertanalyse.xlsx)
 
 - [Drehbuch](Drehbuch.docx)
+
+## Erstellt von 
+<img src="Source/SysTec_white.png" height="60.75" width="151.5"><br>
+Cyril Böhler & Colin Schrepfer
