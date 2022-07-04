@@ -1,8 +1,7 @@
 # M431 Projektdokumentation
 ## Was ist eine Blockchain - Erklärungsvideo
 
-https://youtu.be/M1NhSMybHyE
-
+[![Redirect zu Youtube](Youtube-Video.png)](https://www.youtube.com/watch?v=M1NhSMybHyE)
 ---
 
 ## Inhaltsverzeichnis
