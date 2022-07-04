@@ -3,9 +3,9 @@
 In diesem Projekt wollen wir mehr über die Projektführung erfahren, damit wir später ohne Probleme selbst Projekte durchführen können. Dies wird uns sehr hilfreich sein bei unserer IPA, die in 3 Jahren ansteht. Da wir bereits Erfahrungen in unserer Firma gemacht haben, haben wir hohe Erwartungen an uns und wollen das Projekt mit wenig Hilfe durchführen.<br>
 Auch soll hierbei der Fokus nicht allzu gross auf dem Endprodukt liegen, sondern eher auf der Art, wie wir das Projekt bestreiten und die Erfahrungen die wir sammeln, während dieser Zeit.<br>
 ## Informieren
-Fürs Informieren haben wir zuerst einmal mit einem Mindmap begonnen dieses haben wir dann mit einem Brainstorming erweitert. Schlussendlich waren wir mit den Ideen aber noch nicht ganz Einig und haben mithilfe von Herr Calisto einen Entschluss getroffen ein Erklärungsvideo über Blockchain zu machen. Denn Blockchain ist mit der neunen Technik immer presenter geworden und ist ein sehr interessantes Thema, dass sehr viele Möglichkeiten bietet. Dies werden wir grösstenteils durch das Internet erlernen, wie YouTube und Internetseiten.<br><br>
+Fürs Informieren haben wir zuerst einmal mit einem Mindmap begonnen dieses haben wir dann mit einem Brainstorming erweitert. Schlussendlich waren wir mit den Ideen aber noch nicht ganz Einig und haben mithilfe von Herr Calisto einen Entschluss getroffen ein Erklärungsvideo über Blockchain zu machen. Denn Blockchain ist mit der neunen Technik immer presenter geworden und ist ein sehr interessantes Thema, dass sehr viele Möglichkeiten bietet. Dies werden wir grösstenteils durch das Internet erlernen, wie YouTube und Internetseiten.<br>
 
-Links:<br>
+Links:
 https://www.ibm.com/topics/what-is-blockchain<br>
 https://www.euromoney.com/learning/blockchain-explained/what-is-blockchain<br>
 https://www.coinbase.com/de/learn/crypto-basics/what-is-a-blockchain<br>
@@ -37,7 +37,8 @@ Die Realisierung des Erklärungsvideos ging zuerst einmal los mit einer Introduc
 <br>
 
 ## Kontrollieren
-
+Bei dem Kontrollieren haben wir zuallererst Beide nochmals das Video angeschaut und mit der Checkliste abgeglichen, dabei fiel uns auf, dass wir keine Nachteile und auch keine richtigen Vorteile im Video erwähnt haben. Der Grund dafür ist, dass die Blockchain nicht wirklich Nachteile hat, bis auf das alle Daten für immer in der Blockchain gespeichert sind. Vorteile haben wir zwar erwähnt, doch nicht sehr speziefisch. Wir sind eher allgemein auf die Erklärung der Blockchain eingegangen und wenig auf die Vorteile. Unser anderes Ziel, dass wir noch nicht erreicht haben, ist das Kahoot in der Klasse, bei dem mindestens 5 Personen 7/8 Fragen richtig beantworten, um zu überprüfen, ob unser Video gut ist. Dies können wir erst auswerten, wenn wir die Präsentation abgehalten haben. Die restlichen Ziele haben wir alle erreicht oder sogar übertroffen, wie zum Beispiel, dass unser Video 5 Minuten lang wird. Dabei konnten wir viel mehr erzählen und daher haben wir ein Video, dass 8:30 Minuten lang ist. Auch, dass das Video am letzten Tag fertig ist, haben wir vorgezogen und sind bereits eine Woche früher fertig.
+<br>
 
 ## Auswerten
 
