@@ -34,10 +34,13 @@ Wir haben uns für das Erklärungsvideo entschieden, weil Blockchain ein grosses
 Am Anfang des Realisierens haben wir ein Drehbuch erstellt. Bei diesem ging es uns darum alle Texte, die wir aufnehmen aufzuschreiben und allgemein den Ablauf zu erarbeiten. Danach haben wir zu diesem Drehbuch die Aufnahmen gemacht. Dies haben wir Zuhause gemacht, da wir Zuhause gute Mikrofone haben und wir sowieso noch Zeit nachholen musste, da wir am 20.06.2022 schon früher nach hause durften. Danach war nur noch das Animieren an der Reihe, das zum grössten Teil Colin übernommen hat. 
 <img src="Source/SysTec_Intro.png"><br>
 Die Realisierung des Erklärungsvideos ging zuerst einmal los mit einer Introduction Animation unserer Firma SysTec, welche mit dem neusten Logo ausgestattet ist. Dieses Intro wurde aber eher simple gehalten, da wir nicht zu viel Zeit und Fokus auf diese Intro Animationen aufwenden wollten. Durch das Drehbuch konnte das Video auch gut strukturiert aufgebaut werden mit verschiedenen "Slides" zu den einzelnen Teilthemen. Die Sprachaufnahmen wurden auch bereits so zugeschnitten, dass Sie passen und nun fehlt nur noch die genaue Grafik und dessen Animation. 
-
 <br>
 
 ## Kontrollieren
+
+
 ## Auswerten
+
+
 ===============<br>
 Project by Colin & Cyril 
