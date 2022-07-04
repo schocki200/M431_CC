@@ -41,7 +41,9 @@ Bei dem Kontrollieren haben wir zuallererst Beide nochmals das Video angeschaut 
 <br>
 
 ## Auswerten
-
+Anfangs hatten wir ein wenig Startschwierigkeiten, da wir nicht wusste, was für ein Projekt wir machen sollte. Dank Herr Calisto kamen wir dann aber trotzdem auf ein Projekt, dass uns beiden gefiel und auch interessant war. Danach ging es ziemlich flüssig voran und wir haben schnell Fortschritte gemacht und konnten erste Erfolge vorzeigen. Dank einigen Projekten und Modulen in der UBS wussten wir auch wie wir ein Projekt zu führen haben, was vieles einfacher gemacht hat. Nur gegen das Ende und nach einigen Unterbrüchen in der Schule kamen wir ein wenig in den Stress, da das Video ein wenig länger gedauert hat, als erwartet. Doch wir haben es geschafft, dass wir am letzten Tag nur noch das K und A von IPERKA schreiben und ausführen mussten.<br>
+Als Fazit würden wir sagen, dass wir das meiste richtig gemacht haben und keine grossen Dinge anderst machen würden. Man könnte sagen, dass wir mit dem Animieren früher beginnen sollten, damit wir keinen Stress am Ende habem, aber Schlussendlich lief alles in der geplanten Zeit ab und wir wurden rechtzeitig fertig. Auch die Arbeitsaufteilung könnte man etwas anders machen, damit Colin nicht alles selbst Animieren musste, aber leider hat Cyril nicht das Wissen, sowie die Möglichkeiten dazu. Nun im Grossen und Ganzen war es ein gelungenes Projekt, auf das wir Stolz sein können.
+<br>
 
 ===============<br>
 Project by Colin & Cyril 
